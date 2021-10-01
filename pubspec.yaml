@@ -29,6 +29,9 @@ dependencies:
   provider: ^6.0.1
   geolocator: ^7.6.2
   global_snack_bar: ^0.0.12
+  audioplayers: ^0.20.1
+  connectivity: ^3.0.6
+  fluttertoast: ^8.0.8
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -51,6 +54,7 @@ flutter:
   uses-material-design: true
   assets:
     - assets/boy.png
+    - assets/playbtn.png
     - assets/destination.png
   # To add assets to your application, add an assets section, like this:
   # assets:
